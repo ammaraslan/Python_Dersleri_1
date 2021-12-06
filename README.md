@@ -25,3 +25,5 @@ https://www.bigdataci.com/python-14-modul-1-modul-nedir-nasil-kullanilir/256/
 https://www.mobilhanem.com/python-nesne-tabanli-programlama-oop/
 
 https://www.sadikturan.com/python-nesne-tabanli-programlama/oop-nedir/1397
+
+https://medium.com/e-anatolia/python-ile-nesne-tabanl%C4%B1-programlama-object-oriented-programming-232134543e7f
