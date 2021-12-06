@@ -1,5 +1,6 @@
 # PythonDersleri
-Python ders uygulamalarını içermektedir. 
+Python ders uygulamalarını içermektedir. Derslere Root1'den başlayarak ilerleyiniz.
+
 Kaynaklar ve Yararlı Siteler
 
 https://bahcelianadolu.meb.k12.tr/meb_iys_dosyalar/06/06/964306/dosyalar/2020_12/22205648_21205748_2._DYnem_1._SYnav_Ders_NotlarY.pdf
