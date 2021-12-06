@@ -30,3 +30,5 @@ https://www.sadikturan.com/python-nesne-tabanli-programlama/oop-nedir/1397
 https://medium.com/e-anatolia/python-ile-nesne-tabanl%C4%B1-programlama-object-oriented-programming-232134543e7f
 
 https://medium.com/e-anatolia/python-programlama-dili-mod%C3%BCl-paket-ve-k%C3%BCt%C3%BCphane-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-b9ae6f6f186a
+
+https://www.tasarimkodlama.com/python-programlama/python-matematiksel-fonksiyonlar/
