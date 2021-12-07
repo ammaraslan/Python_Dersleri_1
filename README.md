@@ -32,3 +32,11 @@ https://medium.com/e-anatolia/python-ile-nesne-tabanl%C4%B1-programlama-object-o
 https://medium.com/e-anatolia/python-programlama-dili-mod%C3%BCl-paket-ve-k%C3%BCt%C3%BCphane-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-b9ae6f6f186a
 
 https://www.tasarimkodlama.com/python-programlama/python-matematiksel-fonksiyonlar/
+
+
+
+
+Colab Python version güncelleme kodu:
+
+!sudo apt-get update -y
+!sudo apt-get install python3.9
